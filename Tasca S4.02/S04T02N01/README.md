@@ -57,8 +57,6 @@ La aplicación expone los siguientes endpoints para gestionar la entidad "Fruita
 
 ## Recursos
 
-Para más información sobre la implementación de CRUD con Spring Boot y JPA, consulta los siguientes recursos:
-
 - [CRUD Spring API REST + JPA + PostgreSQL](https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/)
 - [CRUD Spring API REST + JPA + H2](https://www.bezkoder.com/spring-boot-jpa-h2-example/)
 - [CRUD Spring API REST + JPA + MySQL](https://amoelcodigo.com/crud-java-sprig-mysql/)
